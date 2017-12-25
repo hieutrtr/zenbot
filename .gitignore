@@ -27,3 +27,4 @@ models/*.html
 temp.html
 logs
 .sync
+workers
