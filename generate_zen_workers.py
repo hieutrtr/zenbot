@@ -13,7 +13,6 @@ else:
     repls = ['\x1b','[36m','[39m','[90m','[32m']
 
     workers = {"apps": []}
-
     for res in results:
         for repl in repls:
             res = res.replace(repl,'')
@@ -21,7 +20,14 @@ else:
         if len(res) >= 3 and sys.argv[1] in res[2] and '-'+sys.argv[2] in res[2]:
             workers['apps'].append({"name": res[2], "script": "./zenbot.sh", "args": "trade {} --paper --strategy macd".format(res[2])})
 
-print workers
+def chunks(l, n):
+    res = []
+    for i in range(0, len(l), n):
+        res.append(l[i:i + n])
+    return res
+
+print "Number of workers : " + str(len(workers["apps"]))
+workers["apps"] =  chunks(workers["apps"], int(sys.argv[3]))[int(sys.argv[4]) - 1]
 with open("./workers/beta.json", "w") as workerFile:
     workerFile.write(json.dumps(workers,sort_keys=True,indent=4, separators=(',', ': ')))
     workerFile.close()
