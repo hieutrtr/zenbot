@@ -18,7 +18,7 @@ else:
             res = res.replace(repl,'')
         res = res.split(' ')
         if len(res) >= 3 and sys.argv[1] in res[2] and '-'+sys.argv[2] in res[2]:
-            workers['apps'].append({"name": res[2], "script": "./zenbot.sh", "args": "trade {} --paper --strategy macd".format(res[2])})
+            workers['apps'].append({"name": res[2], "script": "./zenbot.sh", "args": "trade {} --paper --strategy macd --conf ./beta.js".format(res[2])})
 
 def chunks(l, n):
     res = []
