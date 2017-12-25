@@ -1,0 +1,1014 @@
+{
+    "app": [
+        {
+            "args": "trade bittrex.1ST-BTC --paper --strategy macd",
+            "name": "bittrex.1ST-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.2GIVE-BTC --paper --strategy macd",
+            "name": "bittrex.2GIVE-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ABY-BTC --paper --strategy macd",
+            "name": "bittrex.ABY-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ADA-BTC --paper --strategy macd",
+            "name": "bittrex.ADA-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ADT-BTC --paper --strategy macd",
+            "name": "bittrex.ADT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ADX-BTC --paper --strategy macd",
+            "name": "bittrex.ADX-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.AEON-BTC --paper --strategy macd",
+            "name": "bittrex.AEON-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.AGRS-BTC --paper --strategy macd",
+            "name": "bittrex.AGRS-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.AMP-BTC --paper --strategy macd",
+            "name": "bittrex.AMP-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ANT-BTC --paper --strategy macd",
+            "name": "bittrex.ANT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.APX-BTC --paper --strategy macd",
+            "name": "bittrex.APX-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ARDR-BTC --paper --strategy macd",
+            "name": "bittrex.ARDR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ARK-BTC --paper --strategy macd",
+            "name": "bittrex.ARK-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.AUR-BTC --paper --strategy macd",
+            "name": "bittrex.AUR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BAT-BTC --paper --strategy macd",
+            "name": "bittrex.BAT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BAY-BTC --paper --strategy macd",
+            "name": "bittrex.BAY-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BCC-BTC --paper --strategy macd",
+            "name": "bittrex.BCC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BCY-BTC --paper --strategy macd",
+            "name": "bittrex.BCY-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BITB-BTC --paper --strategy macd",
+            "name": "bittrex.BITB-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BLITZ-BTC --paper --strategy macd",
+            "name": "bittrex.BLITZ-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BLK-BTC --paper --strategy macd",
+            "name": "bittrex.BLK-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BLOCK-BTC --paper --strategy macd",
+            "name": "bittrex.BLOCK-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BNT-BTC --paper --strategy macd",
+            "name": "bittrex.BNT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BRK-BTC --paper --strategy macd",
+            "name": "bittrex.BRK-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BRX-BTC --paper --strategy macd",
+            "name": "bittrex.BRX-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BSD-BTC --paper --strategy macd",
+            "name": "bittrex.BSD-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BTCD-BTC --paper --strategy macd",
+            "name": "bittrex.BTCD-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BTG-BTC --paper --strategy macd",
+            "name": "bittrex.BTG-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BTS-BTC --paper --strategy macd",
+            "name": "bittrex.BTS-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BURST-BTC --paper --strategy macd",
+            "name": "bittrex.BURST-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.BYC-BTC --paper --strategy macd",
+            "name": "bittrex.BYC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.CANN-BTC --paper --strategy macd",
+            "name": "bittrex.CANN-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.CFI-BTC --paper --strategy macd",
+            "name": "bittrex.CFI-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.CLAM-BTC --paper --strategy macd",
+            "name": "bittrex.CLAM-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.CLOAK-BTC --paper --strategy macd",
+            "name": "bittrex.CLOAK-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.CLUB-BTC --paper --strategy macd",
+            "name": "bittrex.CLUB-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.COVAL-BTC --paper --strategy macd",
+            "name": "bittrex.COVAL-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.CPC-BTC --paper --strategy macd",
+            "name": "bittrex.CPC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.CRB-BTC --paper --strategy macd",
+            "name": "bittrex.CRB-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.CRW-BTC --paper --strategy macd",
+            "name": "bittrex.CRW-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.CURE-BTC --paper --strategy macd",
+            "name": "bittrex.CURE-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.CVC-BTC --paper --strategy macd",
+            "name": "bittrex.CVC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.DASH-BTC --paper --strategy macd",
+            "name": "bittrex.DASH-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.DCR-BTC --paper --strategy macd",
+            "name": "bittrex.DCR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.DCT-BTC --paper --strategy macd",
+            "name": "bittrex.DCT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.DGB-BTC --paper --strategy macd",
+            "name": "bittrex.DGB-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.DGD-BTC --paper --strategy macd",
+            "name": "bittrex.DGD-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.DMD-BTC --paper --strategy macd",
+            "name": "bittrex.DMD-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.DNT-BTC --paper --strategy macd",
+            "name": "bittrex.DNT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.DOGE-BTC --paper --strategy macd",
+            "name": "bittrex.DOGE-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.DOPE-BTC --paper --strategy macd",
+            "name": "bittrex.DOPE-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.DTB-BTC --paper --strategy macd",
+            "name": "bittrex.DTB-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.DYN-BTC --paper --strategy macd",
+            "name": "bittrex.DYN-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.EBST-BTC --paper --strategy macd",
+            "name": "bittrex.EBST-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.EDG-BTC --paper --strategy macd",
+            "name": "bittrex.EDG-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.EFL-BTC --paper --strategy macd",
+            "name": "bittrex.EFL-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.EGC-BTC --paper --strategy macd",
+            "name": "bittrex.EGC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.EMC-BTC --paper --strategy macd",
+            "name": "bittrex.EMC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.EMC2-BTC --paper --strategy macd",
+            "name": "bittrex.EMC2-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ENRG-BTC --paper --strategy macd",
+            "name": "bittrex.ENRG-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ERC-BTC --paper --strategy macd",
+            "name": "bittrex.ERC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ETC-BTC --paper --strategy macd",
+            "name": "bittrex.ETC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ETH-BTC --paper --strategy macd",
+            "name": "bittrex.ETH-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.EXCL-BTC --paper --strategy macd",
+            "name": "bittrex.EXCL-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.EXP-BTC --paper --strategy macd",
+            "name": "bittrex.EXP-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.FAIR-BTC --paper --strategy macd",
+            "name": "bittrex.FAIR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.FCT-BTC --paper --strategy macd",
+            "name": "bittrex.FCT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.FLDC-BTC --paper --strategy macd",
+            "name": "bittrex.FLDC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.FLO-BTC --paper --strategy macd",
+            "name": "bittrex.FLO-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.FTC-BTC --paper --strategy macd",
+            "name": "bittrex.FTC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.FUN-BTC --paper --strategy macd",
+            "name": "bittrex.FUN-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GAM-BTC --paper --strategy macd",
+            "name": "bittrex.GAM-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GAME-BTC --paper --strategy macd",
+            "name": "bittrex.GAME-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GBG-BTC --paper --strategy macd",
+            "name": "bittrex.GBG-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GBYTE-BTC --paper --strategy macd",
+            "name": "bittrex.GBYTE-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GCR-BTC --paper --strategy macd",
+            "name": "bittrex.GCR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GEO-BTC --paper --strategy macd",
+            "name": "bittrex.GEO-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GLD-BTC --paper --strategy macd",
+            "name": "bittrex.GLD-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GNO-BTC --paper --strategy macd",
+            "name": "bittrex.GNO-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GNT-BTC --paper --strategy macd",
+            "name": "bittrex.GNT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GOLOS-BTC --paper --strategy macd",
+            "name": "bittrex.GOLOS-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GRC-BTC --paper --strategy macd",
+            "name": "bittrex.GRC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GRS-BTC --paper --strategy macd",
+            "name": "bittrex.GRS-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.GUP-BTC --paper --strategy macd",
+            "name": "bittrex.GUP-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.HMQ-BTC --paper --strategy macd",
+            "name": "bittrex.HMQ-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.INCNT-BTC --paper --strategy macd",
+            "name": "bittrex.INCNT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.INFX-BTC --paper --strategy macd",
+            "name": "bittrex.INFX-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.IOC-BTC --paper --strategy macd",
+            "name": "bittrex.IOC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ION-BTC --paper --strategy macd",
+            "name": "bittrex.ION-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.IOP-BTC --paper --strategy macd",
+            "name": "bittrex.IOP-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.KMD-BTC --paper --strategy macd",
+            "name": "bittrex.KMD-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.KORE-BTC --paper --strategy macd",
+            "name": "bittrex.KORE-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.LBC-BTC --paper --strategy macd",
+            "name": "bittrex.LBC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.LGD-BTC --paper --strategy macd",
+            "name": "bittrex.LGD-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.LMC-BTC --paper --strategy macd",
+            "name": "bittrex.LMC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.LSK-BTC --paper --strategy macd",
+            "name": "bittrex.LSK-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.LTC-BTC --paper --strategy macd",
+            "name": "bittrex.LTC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.LUN-BTC --paper --strategy macd",
+            "name": "bittrex.LUN-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.MAID-BTC --paper --strategy macd",
+            "name": "bittrex.MAID-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.MANA-BTC --paper --strategy macd",
+            "name": "bittrex.MANA-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.MCO-BTC --paper --strategy macd",
+            "name": "bittrex.MCO-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.MEME-BTC --paper --strategy macd",
+            "name": "bittrex.MEME-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.MER-BTC --paper --strategy macd",
+            "name": "bittrex.MER-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.MLN-BTC --paper --strategy macd",
+            "name": "bittrex.MLN-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.MONA-BTC --paper --strategy macd",
+            "name": "bittrex.MONA-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.MTL-BTC --paper --strategy macd",
+            "name": "bittrex.MTL-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.MUE-BTC --paper --strategy macd",
+            "name": "bittrex.MUE-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.MUSIC-BTC --paper --strategy macd",
+            "name": "bittrex.MUSIC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.MYST-BTC --paper --strategy macd",
+            "name": "bittrex.MYST-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.NAV-BTC --paper --strategy macd",
+            "name": "bittrex.NAV-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.NBT-BTC --paper --strategy macd",
+            "name": "bittrex.NBT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.NEO-BTC --paper --strategy macd",
+            "name": "bittrex.NEO-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.NEOS-BTC --paper --strategy macd",
+            "name": "bittrex.NEOS-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.NLG-BTC --paper --strategy macd",
+            "name": "bittrex.NLG-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.NMR-BTC --paper --strategy macd",
+            "name": "bittrex.NMR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.NXC-BTC --paper --strategy macd",
+            "name": "bittrex.NXC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.NXS-BTC --paper --strategy macd",
+            "name": "bittrex.NXS-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.NXT-BTC --paper --strategy macd",
+            "name": "bittrex.NXT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.OK-BTC --paper --strategy macd",
+            "name": "bittrex.OK-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.OMG-BTC --paper --strategy macd",
+            "name": "bittrex.OMG-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.OMNI-BTC --paper --strategy macd",
+            "name": "bittrex.OMNI-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.PART-BTC --paper --strategy macd",
+            "name": "bittrex.PART-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.PAY-BTC --paper --strategy macd",
+            "name": "bittrex.PAY-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.PDC-BTC --paper --strategy macd",
+            "name": "bittrex.PDC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.PINK-BTC --paper --strategy macd",
+            "name": "bittrex.PINK-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.PIVX-BTC --paper --strategy macd",
+            "name": "bittrex.PIVX-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.PKB-BTC --paper --strategy macd",
+            "name": "bittrex.PKB-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.POT-BTC --paper --strategy macd",
+            "name": "bittrex.POT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.POWR-BTC --paper --strategy macd",
+            "name": "bittrex.POWR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.PPC-BTC --paper --strategy macd",
+            "name": "bittrex.PPC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.PTC-BTC --paper --strategy macd",
+            "name": "bittrex.PTC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.PTOY-BTC --paper --strategy macd",
+            "name": "bittrex.PTOY-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.QRL-BTC --paper --strategy macd",
+            "name": "bittrex.QRL-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.QTUM-BTC --paper --strategy macd",
+            "name": "bittrex.QTUM-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.QWARK-BTC --paper --strategy macd",
+            "name": "bittrex.QWARK-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.RADS-BTC --paper --strategy macd",
+            "name": "bittrex.RADS-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.RBY-BTC --paper --strategy macd",
+            "name": "bittrex.RBY-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.RCN-BTC --paper --strategy macd",
+            "name": "bittrex.RCN-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.RDD-BTC --paper --strategy macd",
+            "name": "bittrex.RDD-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.REP-BTC --paper --strategy macd",
+            "name": "bittrex.REP-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.RISE-BTC --paper --strategy macd",
+            "name": "bittrex.RISE-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.RLC-BTC --paper --strategy macd",
+            "name": "bittrex.RLC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SAFEX-BTC --paper --strategy macd",
+            "name": "bittrex.SAFEX-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SALT-BTC --paper --strategy macd",
+            "name": "bittrex.SALT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SBD-BTC --paper --strategy macd",
+            "name": "bittrex.SBD-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SC-BTC --paper --strategy macd",
+            "name": "bittrex.SC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SEQ-BTC --paper --strategy macd",
+            "name": "bittrex.SEQ-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SHIFT-BTC --paper --strategy macd",
+            "name": "bittrex.SHIFT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SIB-BTC --paper --strategy macd",
+            "name": "bittrex.SIB-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SLR-BTC --paper --strategy macd",
+            "name": "bittrex.SLR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SLS-BTC --paper --strategy macd",
+            "name": "bittrex.SLS-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SNGLS-BTC --paper --strategy macd",
+            "name": "bittrex.SNGLS-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SNRG-BTC --paper --strategy macd",
+            "name": "bittrex.SNRG-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SNT-BTC --paper --strategy macd",
+            "name": "bittrex.SNT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SPHR-BTC --paper --strategy macd",
+            "name": "bittrex.SPHR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SPR-BTC --paper --strategy macd",
+            "name": "bittrex.SPR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.START-BTC --paper --strategy macd",
+            "name": "bittrex.START-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.STEEM-BTC --paper --strategy macd",
+            "name": "bittrex.STEEM-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.STORJ-BTC --paper --strategy macd",
+            "name": "bittrex.STORJ-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.STRAT-BTC --paper --strategy macd",
+            "name": "bittrex.STRAT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SWIFT-BTC --paper --strategy macd",
+            "name": "bittrex.SWIFT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SWT-BTC --paper --strategy macd",
+            "name": "bittrex.SWT-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SYNX-BTC --paper --strategy macd",
+            "name": "bittrex.SYNX-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.SYS-BTC --paper --strategy macd",
+            "name": "bittrex.SYS-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.THC-BTC --paper --strategy macd",
+            "name": "bittrex.THC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.TIME-BTC --paper --strategy macd",
+            "name": "bittrex.TIME-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.TIX-BTC --paper --strategy macd",
+            "name": "bittrex.TIX-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.TKN-BTC --paper --strategy macd",
+            "name": "bittrex.TKN-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.TKS-BTC --paper --strategy macd",
+            "name": "bittrex.TKS-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.TRIG-BTC --paper --strategy macd",
+            "name": "bittrex.TRIG-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.TRST-BTC --paper --strategy macd",
+            "name": "bittrex.TRST-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.TRUST-BTC --paper --strategy macd",
+            "name": "bittrex.TRUST-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.TX-BTC --paper --strategy macd",
+            "name": "bittrex.TX-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.UBQ-BTC --paper --strategy macd",
+            "name": "bittrex.UBQ-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.UNB-BTC --paper --strategy macd",
+            "name": "bittrex.UNB-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.VIA-BTC --paper --strategy macd",
+            "name": "bittrex.VIA-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.VIB-BTC --paper --strategy macd",
+            "name": "bittrex.VIB-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.VOX-BTC --paper --strategy macd",
+            "name": "bittrex.VOX-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.VRC-BTC --paper --strategy macd",
+            "name": "bittrex.VRC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.VRM-BTC --paper --strategy macd",
+            "name": "bittrex.VRM-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.VTC-BTC --paper --strategy macd",
+            "name": "bittrex.VTC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.VTR-BTC --paper --strategy macd",
+            "name": "bittrex.VTR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.WAVES-BTC --paper --strategy macd",
+            "name": "bittrex.WAVES-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.WINGS-BTC --paper --strategy macd",
+            "name": "bittrex.WINGS-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XAUR-BTC --paper --strategy macd",
+            "name": "bittrex.XAUR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XCP-BTC --paper --strategy macd",
+            "name": "bittrex.XCP-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XDN-BTC --paper --strategy macd",
+            "name": "bittrex.XDN-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XEL-BTC --paper --strategy macd",
+            "name": "bittrex.XEL-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XEM-BTC --paper --strategy macd",
+            "name": "bittrex.XEM-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XLM-BTC --paper --strategy macd",
+            "name": "bittrex.XLM-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XMG-BTC --paper --strategy macd",
+            "name": "bittrex.XMG-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XMR-BTC --paper --strategy macd",
+            "name": "bittrex.XMR-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XMY-BTC --paper --strategy macd",
+            "name": "bittrex.XMY-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XRP-BTC --paper --strategy macd",
+            "name": "bittrex.XRP-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XST-BTC --paper --strategy macd",
+            "name": "bittrex.XST-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XVC-BTC --paper --strategy macd",
+            "name": "bittrex.XVC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XVG-BTC --paper --strategy macd",
+            "name": "bittrex.XVG-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XWC-BTC --paper --strategy macd",
+            "name": "bittrex.XWC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.XZC-BTC --paper --strategy macd",
+            "name": "bittrex.XZC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ZCL-BTC --paper --strategy macd",
+            "name": "bittrex.ZCL-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ZEC-BTC --paper --strategy macd",
+            "name": "bittrex.ZEC-BTC",
+            "script": "./zenbot.sh"
+        },
+        {
+            "args": "trade bittrex.ZEN-BTC --paper --strategy macd",
+            "name": "bittrex.ZEN-BTC",
+            "script": "./zenbot.sh"
+        }
+    ]
+}
