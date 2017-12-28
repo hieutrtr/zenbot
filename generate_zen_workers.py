@@ -13,7 +13,7 @@ coins = coinmarketcap.ticker(limit=50)
 # print(coins)
 # for coin in coins:
 #     print(coin.get("symbol",None))
-strategies = ["macd","trendline","neural","forex_analytics"]
+strategies = sys.argv[4].split(',') if sys.argv[4] else ["macd","trendline","neural","forex_analytics"]
 workers = {"apps": []}
 exchange = sys.argv[1]
 currency = sys.argv[2]
