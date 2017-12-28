@@ -21,7 +21,7 @@ for coin in coins[1:]:
     if coin.get("symbol", None):
         selector = '{}.{}-{}'.format(exchange,coin["symbol"],currency)
         for strategy in strategies:
-            workers['apps'].append({"name": selector, "script": "./zenbot.sh", "args": "trade {} --paper --strategy {} --conf ./beta.js".format(selector,strategy)})
+            workers['apps'].append({"name": selector+'.'+strategy, "script": "./zenbot.sh", "args": "trade {} --paper --strategy {} --conf ./beta.js".format(selector,strategy)})
     # if len(res) >= 3 and sys.argv[1] in res[2] and '-'+sys.argv[2] in res[2]:
     #     workers['apps'].append({"name": res[2], "script": "./zenbot.sh", "args": "trade {} --paper --strategy {} --conf ./beta.js".format(res[2],sys.argv[3])})
 
