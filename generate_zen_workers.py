@@ -25,8 +25,8 @@ for coin in coins[1:]:
     if coin.get("symbol", None):
         selector = '{}.{}-{}'.format(exchange,coin["symbol"],currency)
         for strategy in strategies:
-            conf = strategy_conf.get("strategy",{})
-            ops = "--period {}".format(conf["period"]) if conf.get("period",None) != None else ""
+            conf = strategy_conf.get(strategy,{})
+            ops = "--period {}".format(conf["period"]) if(conf.get("period",None) != None) else ""
             workers['apps'].append({"name": selector+'.'+strategy, "script": "./zenbot.sh", "args": "trade {} --paper --strategy {} {} --conf ./beta.js".format(selector,strategy,ops)})
 
 def chunks(l, n):
