@@ -6,7 +6,7 @@ import time
 import re
 
 coinmarketcap = Market()
-coins = coinmarketcap.ticker(limit=50)
+coins = coinmarketcap.ticker(limit=200)
 
 strategy_conf = {
     "trendline": {
@@ -27,7 +27,7 @@ for coin in coins[1:]:
         for strategy in strategies:
             conf = strategy_conf.get(strategy,{})
             ops = "--period {}".format(conf["period"]) if(conf.get("period",None) != None) else ""
-            workers['apps'].append({"name": selector+'.'+strategy, "script": "./zenbot.sh", "args": "trade {} --paper --strategy {} {} --conf ./beta.js".format(selector,strategy,ops)})
+            workers['apps'].append({"autorestart": False ,"name": selector+'.'+strategy, "script": "./zenbot.sh", "args": "trade {} --paper --strategy {} {} --conf ./beta.js".format(selector,strategy,ops)})
 
 def chunks(l, n):
     res = []
