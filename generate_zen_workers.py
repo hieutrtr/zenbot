@@ -14,7 +14,7 @@ strategy_conf = {
     },
     "rsi": {
         "period": "1h"
-    }
+    },
     "trend_ema": {
         "period": "15m"
     }
