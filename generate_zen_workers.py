@@ -15,6 +15,9 @@ strategy_conf = {
     "rsi": {
         "period": "1h"
     }
+    "trend_ema": {
+        "period": "15m"
+    }
 }
 
 strategies = sys.argv[4].split(',') if sys.argv[4] else ["macd","trendline","neural","forex_analytics"]
